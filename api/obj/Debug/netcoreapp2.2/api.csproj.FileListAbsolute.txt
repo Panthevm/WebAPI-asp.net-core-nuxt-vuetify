@@ -1,0 +1,14 @@
+/home/panthevm/marsel/api/bin/Debug/netcoreapp2.2/api.deps.json
+/home/panthevm/marsel/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.json
+/home/panthevm/marsel/api/bin/Debug/netcoreapp2.2/api.runtimeconfig.dev.json
+/home/panthevm/marsel/api/bin/Debug/netcoreapp2.2/api.dll
+/home/panthevm/marsel/api/bin/Debug/netcoreapp2.2/api.pdb
+/home/panthevm/marsel/api/obj/Debug/netcoreapp2.2/api.csprojAssemblyReference.cache
+/home/panthevm/marsel/api/obj/Debug/netcoreapp2.2/api.csproj.CoreCompileInputs.cache
+/home/panthevm/marsel/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cache
+/home/panthevm/marsel/api/obj/Debug/netcoreapp2.2/api.RazorAssemblyInfo.cs
+/home/panthevm/marsel/api/obj/Debug/netcoreapp2.2/api.AssemblyInfoInputs.cache
+/home/panthevm/marsel/api/obj/Debug/netcoreapp2.2/api.AssemblyInfo.cs
+/home/panthevm/marsel/api/obj/Debug/netcoreapp2.2/api.RazorTargetAssemblyInfo.cache
+/home/panthevm/marsel/api/obj/Debug/netcoreapp2.2/api.dll
+/home/panthevm/marsel/api/obj/Debug/netcoreapp2.2/api.pdb
